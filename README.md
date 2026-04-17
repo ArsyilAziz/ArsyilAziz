@@ -32,8 +32,7 @@ I build <b>user-centered digital products</b><br/>
 through clean interfaces and structured front-end systems.
 </p>
 
-<p align="center"><img width="1400" height="349" alt="1771520191158" src="https://github.com/user-attachments/assets/84abc992-22ce-4cea-8c63-bd1f8b5392c7" />
-
+<p align="center">
 <i>「Design is logic. Elegance is the result.」</i>
 </p>
 
