@@ -1,10 +1,21 @@
-<!-- ======================= HERO SECTION ======================= -->
+<!-- ======================= HERO / LANDING ======================= -->
+<img width="1400" height="349" alt="1771520191158" src="https://github.com/user-attachments/assets/5a5308dd-39f1-4cd1-aecc-52708a112e07" />
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,50:1f7a63,100:4ade80&height=180&section=header&text=M.%20Dzul'Arsyil%20Aziz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Japanese%20Learner&descAlignY=55&descAlign=50"/>
+  「静かに成長する」 ✦ Building quietly, improving consistently
 </p>
 
 <p align="center">
-  「静かに成長する」 ✦ Growing quietly, building consistently
+  <img src="https://readme-typing-svg.herokuapp.com?color=42A5F5&center=true&vCenter=true&lines=Design+%E2%9C%95+Code+%E2%9C%95+Growth;User-Centered+Thinking;Consistency+as+a+System" />
+</p>
+
+---
+
+<!-- ======================= QUICK SNAPSHOT ======================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20UI%2FUX-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-JLPT%20N5-42A5F5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Discipline-Daily%20Progress-0D47A1?style=for-the-badge"/>
 </p>
 
 ---
@@ -12,89 +23,132 @@
 <!-- ======================= IDENTITY ======================= -->
 ## ✦ 「Identity」
 
-Hi, I'm **M. Dzul'Arsyil Aziz** 👋  
-Front-End Developer | UI/UX Designer | Japanese Learner 🇯🇵  
+<p align="center">
+<b>Front-End Developer</b> ✧ <b>UI/UX Designer</b> ✧ <b>Japanese Learner 🇯🇵</b>
+</p>
 
-I design and build **user-centered digital products**  
-with a focus on **clean interfaces** and **scalable front-end systems**.
+<p align="center">
+I build <b>user-centered digital products</b><br/>
+through clean interfaces and structured front-end systems.
+</p>
 
-ーーー
+<p align="center"><img width="1400" height="349" alt="1771520191158" src="https://github.com/user-attachments/assets/84abc992-22ce-4cea-8c63-bd1f8b5392c7" />
+
+<i>「Design is logic. Elegance is the result.」</i>
+</p>
+
+---
+
+<!-- ======================= STATS ======================= -->
+## ✧ 「System Analytics」
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArsyilAziz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsyilAziz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArsyilAziz&theme=tokyonight&hide_border=true&background=00000000"/>
+</p>
+
+---
 
 <!-- ======================= SKILLS ======================= -->
-## ✧ 「Craft & Tools」
+## ✦ 「Craft & Tools」
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,figma,git,github,unity" />
 </p>
 
-- Front-End Development (HTML, CSS, JavaScript, Basic React)  
-- UI/UX Design (Figma, Design Thinking)  
-- Basic Backend (PHP)  
-- Version Control (Git & GitHub)
+<p align="center">
+「Tools are extensions of thought」
+</p>
 
-ーーー
+---
 
-<!-- ======================= CURRENT FOCUS ======================= -->
-## ✦ 「現在・Now Building」
+<!-- ======================= CURRENT STATUS ======================= -->
+## ✧ 「System Status」
 
-- 💻 Developing web applications with real-world use cases  
-- 🎨 Crafting intuitive and meaningful UI/UX experiences  
-- 🇯🇵 Learning Japanese (JLPT N5)  
-- 🎮 Exploring fundamentals of game development  
+```txt
+Status        : Active
+Focus         : Front-End Development + UI/UX
+Learning      : Japanese (JLPT N5) | Game Dev Basics
+Consistency   : Daily Progress Mode
+````
 
-> 小さな一歩でも、前に進んでいる。  
-> Even small steps are still progress.
+---
 
-ーーー
+<!-- ======================= JOURNEY ======================= -->
+
+## ✦ 「Progress Path」
+
+```txt
+[ Design Thinking ] ━━━━●━━━━━━ [ UI/UX Execution ]
+                         ┃
+                         ┣━━━●━━━ [ Front-End Development ]
+                         ┃
+                         ┗━━━○━━━ [ Game Development ]
+```
+
+---
 
 <!-- ======================= PROJECTS ======================= -->
+
 ## ✧ 「Selected Works」
 
-✦ Coming Soon  
+<p align="center">
+  ✦ Coming Soon ✦
+</p>
 
-- Personal Finance Web App  
-- JLPT Learning App  
+* 💰 Personal Finance Web App
+* 🇯🇵 JLPT Learning App
 
 <p align="center">
   <i>「Work in progress — built with intention」</i>
 </p>
 
-ーーー
+---
+
+<!-- ======================= DISCIPLINE ======================= -->
+
+## ✦ 「Daily Discipline」
+
+* 💻 Code consistently
+* 🎨 Design with intention
+* 🇯🇵 Study Japanese daily
+* 📈 Improve 1% every day
+
+> 継続は力なり
+> Consistency builds strength
+
+---
 
 <!-- ======================= PHILOSOPHY ======================= -->
-## ✦ 「Philosophy」
 
-> 「改善・Kaizen」 — Continuous Improvement  
+## ✧ 「Philosophy」
 
-I believe in:
-- Consistency over intensity  
-- Clarity over complexity  
-- Progress over perfection  
+> 「改善・Kaizen」
 
-Building not just for function,  
-but for **experience and meaning**.
+Design is logic.
+Elegance is the result.
 
-ーーー
+---
 
 <!-- ======================= CONNECT ======================= -->
-## ✧ 「Connect」
 
-I'm open to:
-- 🤝 Collaboration  
-- 💼 Internship opportunities  
-- 🌱 Learning & growth  
+## ✦ 「Connect」
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mdzularsyilaziz" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdzularsyilaziz">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://instagram.com/designwithdzul" target="_blank">
+  <a href="https://instagram.com/designwithdzul">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="https://tiktok.com/@designwithdzul" target="_blank">
+  <a href="https://tiktok.com/@designwithdzul">
     <img src="https://img.icons8.com/color/48/tiktok--v1.png" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@designwithdzul" target="_blank">
+  <a href="https://www.youtube.com/@designwithdzul">
     <img src="https://img.icons8.com/color/48/youtube-play.png" height="40"/>
   </a>
   <a href="mailto:mdzularsyilaziz@gmail.com">
@@ -105,8 +159,10 @@ I'm open to:
 ---
 
 <!-- ======================= FOOTER ======================= -->
+
 <p align="center">
-  ✦ Still learning  
-  ✦ Still building  
-  ✦ Still improving  
+  ✦ Still learning ✦ Still building ✦ Still evolving ✦
 </p>
+
+---
+```
